@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Bishnu Prasad, a passionate frontend  developer 👨‍💻 From India 🚀</div>  
+### <div align="center">I'm Bishnu Prasad, a passionate backend developer 👨‍💻 From India 🚀</div>  
   
 
-- 🔭 I’m currently working on My Personal portfolio project  
+- 🔭 I’m currently working on Live Poject  
   
 
-- 🌱 I’m currently learning ReactJS  
+- 🌱 I’m currently learned php, angularjs, ajax and jquery. 
   
 
-- Ask me about anything related to MERN stack and related technologies ❓  
+- Ask me about anything related to Angularjs and related technologies ❓  
   
 
 <br/>  
